@@ -6,3 +6,6 @@ A simple wrapper for http://www.mymovieapi.com
 ```ruby
 gem install mmapi
 ```
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/tylerdavis/mmapi/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
